@@ -11,6 +11,7 @@ I'm a Computer Science student 🎓 passionate about web development and competi
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkhaledfayez123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-fayez)
+[![cv](https://img.shields.io/badge/MY_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/1TnEki32l1cjCmobVqRtP7li5mvpMDWPm/view?usp=drive_link)
 
 ### 🛠 Skills
 
